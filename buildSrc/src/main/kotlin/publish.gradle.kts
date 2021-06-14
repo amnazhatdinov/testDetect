@@ -93,7 +93,7 @@ afterEvaluate {
                         version = "$version-SNAPSHOT"
                     }
                     description.set("A template for Kotlin Android projects")
-                    url.set("https://github.com/cortinico/kotlin-android-template/")
+                    url.set("https://github.com/amnazhatdinov/testdetect/")
 
                     licenses {
                         license {
@@ -103,18 +103,18 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            id.set("cortinico")
-                            name.set("Nicola Corti")
+                            id.set("amnazhatdinov")
+                            name.set("amnazhatdinov")
                         }
                     }
                     scm {
-                        connection.set("scm:git:git://github.com/cortinico/kotlin-android-template.git")
-                        developerConnection.set("scm:git:ssh://github.com/cortinico/kotlin-android-template.git")
-                        url.set("https://github.com/cortinico/kotlin-android-template/")
+                        connection.set("scm:git:git://github.com/amnazhatdinov/testdetect.git")
+                        developerConnection.set("scm:git:ssh://github.com/amnazhatdinov/testdetect.git")
+                        url.set("https://github.com/amnazhatdinov/testdetect/")
                     }
                     issueManagement {
                         system.set("GitHub Issues")
-                        url.set("https://github.com/cortinico/kotlin-android-template/issues")
+                        url.set("https://github.com/amnazhatdinov/testdetect/issues")
                     }
                 }
             }
